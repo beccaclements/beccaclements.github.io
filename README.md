@@ -1,3 +1,3 @@
-name: Rebecca Clements
+title: Rebecca Clements
 # Rebecca Clements
 
